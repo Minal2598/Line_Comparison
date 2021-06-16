@@ -8,17 +8,17 @@ public class LineComparison{
 	System.out.println("y1::");
 	y1= sc.nextDouble();
 	System.out.println("x2::");
-    x2= sc.nextDouble();
+        x2= sc.nextDouble();
 	System.out.println("y2::");
 	y2= sc.nextDouble();
 	System.out.println("x3::");
-    x3= sc.nextDouble();
+        x3= sc.nextDouble();
 	System.out.println("y3::");
-    y3= sc.nextDouble();
+        y3= sc.nextDouble();
 	System.out.println("x4::");
-    x4= sc.nextDouble();
+        x4= sc.nextDouble();
 	System.out.println("y4::");
-    y4= sc.nextDouble();
+        y4= sc.nextDouble();
 
  
  
